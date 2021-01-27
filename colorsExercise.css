@@ -1,0 +1,27 @@
+h1 {
+    color: rgba(223, 149, 89, 0.5);
+  }
+
+  h2 {
+      color: blueviolet;
+  }
+
+  h3 {
+      color: rgb(98, 65,34);
+  }
+
+  h4 {
+      color: rgba(0, 0, 78, 436)
+  }
+
+h5 {
+    color: #500470;
+}
+
+h6 {       
+    color: rosybrown;
+}
+
+p {
+color: seagreen;
+}
